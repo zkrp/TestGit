@@ -4,6 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 // 添加注释
+//kai.zhong
+//kai.zhong
+//kai.zhong
 public class MainActivity extends AppCompatActivity {
 
     @Override
