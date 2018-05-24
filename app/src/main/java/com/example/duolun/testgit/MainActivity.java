@@ -7,6 +7,8 @@ import android.os.Bundle;
 //kai.zhong
 //kai.zhong
 //kai.zhong
+
+// 刚才好像没有提交成功
 public class MainActivity extends AppCompatActivity {
 
     @Override
